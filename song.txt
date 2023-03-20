@@ -3,3 +3,6 @@ Second line
 Third line
 Forth line
 
+New line
+Today is monday
+
