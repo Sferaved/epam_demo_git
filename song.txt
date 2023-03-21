@@ -7,3 +7,5 @@ Forth line
 
 add fifth line in the feature branch
 commit with tag
+
+continuer in the stash_f.txt
